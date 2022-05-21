@@ -1,3 +1,3 @@
 print("hola mundo")
-for r in range(10):
+for r in range(1, 11):
      print(r)
